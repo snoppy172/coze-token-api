@@ -1,9 +1,4 @@
 {
-  "functions": {
-    "api/get_token.py": {
-      "runtime": "python3.9"
-    }
-  },
   "headers": [
     {
       "source": "/api/(.*)",
